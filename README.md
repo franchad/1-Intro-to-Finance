@@ -68,3 +68,45 @@ On the investment side, Albert would be wise to implement fractional share owner
 
 Albert can utilize use AI to automate functions (i.e., Robo advising); 
 and distributed ledgers and Blockchain technology to increase the speed of transactions, thus making it more profitable. 
+
+## Resources
+
+Resources
+https://www.crunchbase.com/organization/albert-3
+https://albert.com/
+https://www.linkedin.com/company/albertapp/
+https://www.crunchbase.com/person/andrzej-baraniak
+https://www.crunchbase.com/person/yinon-ravid
+https://www.linkedin.com/in/andrzej-baraniak-2195b71/
+https://www.facebook.com/andrzej.baraniak.96
+https://www.linkedin.com/in/yinonravid/
+https://www.facebook.com/yinonravid
+https://twitter.com/yinonar
+https://www.youtube.com/watch?v=2qLj3Rh0tjQ
+https://www.slideshare.net/500startups/500s-demo-day-batch-16-albert
+https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=39b1d2f32132
+https://www.census.gov/content/dam/Census/newsroom/c-span/2015/20150130_cspan_youngadults.pdf
+https://finlab.finhealthnetwork.org/companies/albert/
+https://plaid.com/
+https://help.albert.com/hc/en-us/articles/115002423654-How-you-re-protected
+https://builtwith.com/albert.com
+https://www.crunchbase.com/organization/albert-3/technology
+https://labusinessjournal.com/news/2019/jan/11/fintech-startup-hauls-15-million-app/
+https://independentbanker.org/2017/10/timeline-180-years-of-banking-technology/
+https://www.wellsfargohistory.com/timeline-of-innovation/
+https://www.e-zigurat.com/innovation-school/blog/evolution-of-fintech/
+https://www.forbes.com/sites/falgunidesai/2015/12/13/the-evolution-of-fintech/?sh=10ebb2787175
+https://www.valuepenguin.com/banking/statistics-and-trends
+https://www.crunchbase.com/organization/albert-3/company_financials
+https://www.forbes.com/advisor/banking/best-online-banks/
+https://due.com/blog/the-11-best-digital-wallets-of-2020/
+https://www.merchantmaverick.com/best-mobile-pos-systems/
+https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/
+https://medium.com/swlh/intro-to-kpis-for-fintech-82092070b156
+https://www.spiderstrategies.com/balanced-scorecard/#learn-perspectives
+https://www.even.com/
+https://www.owler.com/company/albertcorporation?pendo=kUUes6C7jD_rqETPliseSRbPjmA
+https://www.zoominfo.com/c/albert-investments-llc/414840319
+https://www.globenewswire.com/news-release/2020/01/29/1976561/0/en/Fintech-Financial-Technology-Market-to-hit-460-billion-by-2025-Global-Insights-on-Growth-Drivers-Key-Trends-Strategic-Initiatives-Value-Chain-Analysis-and-Future-Outlook-Adroit-Mar.html#:~:text=On%20the%20basis%20of%20types,the%20forecast%20period%202020%20%2D2025.
+https://www2.deloitte.com/content/dam/Deloitte/ru/Documents/financial-services/fintech-by-the-numbers.pdf
+https://www.toptal.com/finance/market-research-analysts/fintech-landscape
