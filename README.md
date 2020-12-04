@@ -12,7 +12,7 @@ Baraniak and  Ravid founded Albert since friends and family habitually asked the
 
 Albert has raised 72.9 million from 14 investors since 2015 in 7 rounds, including pre-seed, seed, series A, and most recently, series B on March 10th, 2020 that pulled a 50 million investment from capital G, a growth capital fund financed by alphabet for growth-stage technology companies. Albert's largest investors are 500 startups, QED investors, capital G Finance, solution labs, and Portage 3 Ventures. 
 
-## Business Activities:
+## Business Activities
 
 Albert capitalizes on the emerging need to maintain day-to-day finances remotely and digitally. According to the founders, people under 45 who make $100,000 a year are underserved by the financial services industry. Access to tools and services to manage their money is out of reach, educating themselves is time-consuming, and they don't know what advice to follow. Albert streamlines user's ability to track their finances and improve their Financial Health through practical, actionable recommendations. They can reduce interest rates on credit cards, have Albert negotiate with mobile phone and utility providers, and examine banking data to inform potential savings opportunities. The founders built Albert to be clear on how users can handle their money. Albert tries to make saving and budgeting as easy as possible and provides human experts called Geniuses to help Achieve Financial Wellness.
 
