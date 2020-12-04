@@ -62,7 +62,7 @@ Albert's product offering has a healthy amount of room for improvement. It lacks
 
 Albert also misses the mark with its target age group by only offering automatic savings when a user gets paid instead of a daily feature that would continually engage users. This feature is probably not enabled since Albert has yet to launch its debit card and corresponding checking account. Although, from their website, it appears that it is on the horizon very soon. 
 
-On the investment side, Albert would be wise to implement fractional share ownership products that would help individuals invest in companies and markets that were once only attainable at high price points. This feature could bring in a new set of users that don't have any investing experience or strategy. In conjunction, they could use Robo-advising to compliment their "human-geniuses" recommendations. Offering these additional services could Edge Albert become a complete all-in-one platform for budgeting, saving, investing, lending, and day to day banking. While other competitors have some of those features, very few have them all.
+On the investment side, Albert would be wise to implement fractional share ownership products that would help individuals invest in companies and markets that were once only attainable at high price points. This feature could bring in a new set of users that don't have any investing experience or strategy. In conjunction, they could use Robo-advising to compliment their "human-geniuses" recommendations. Offering these additional services could edge Albert to becomming a complete all-in-one platform for budgeting, saving, investing, lending, and day to day banking. While other competitors have some of those features, very few have them all.
 
 ## New Product Tech
 
