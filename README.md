@@ -4,7 +4,7 @@
 
 Albert is a financial services fintech Incorporated November 1st, 2015, by duo Andrzej Baraniak; Founder, and Yinon Ravid; Co-Founder and CEO. The pair met at Columbia University while studying Engineering and combined have over two decades of financial expertise. Baraniak with Boston Consulting Group advising banks and insurers and Ravid from open folio and Oak Hill advisors. Ravid is also a second-time founder in consumer fintech, and Baraniak is a Harvard Business School graduate.
 
-
+![The Founders Andrzej Baraniak and Yinon Ravid](https://media.glassdoor.com/l/f9/f3/5b/a8/co-founders-andrzej-baraniak-and-yinon-ravid-at-the-annual-secret-santa.jpg)
 
 ## The Product 
 
