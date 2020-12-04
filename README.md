@@ -10,7 +10,7 @@ Baraniak and  Ravid founded Albert since friends and family habitually asked the
 
 ## Investment
 
-Albert has raised 72.9 million from 14 investors since 2015 in 7 rounds, including pre-seed, seed, series A, and most recently, series B on March 10th, 2020. That round pulled in a 50 million investment from capital G, a growth capital fund financed by alphabet for growth-stage technology companies. Albert's largest investors are 500 startups, QED investors, capital G Finance, solution labs, and Portage 3 Ventures. 
+Albert has raised 72.9 million from 14 investors since 2015 in 7 rounds, including pre-seed, seed, series A, and most recently, series B on March 10th, 2020. The series B pulled in a 50 million investment from capital G, a growth capital fund financed by alphabet for growth-stage technology companies. Albert's largest investors are 500 startups, QED investors, capital G Finance, solution labs, and Portage 3 Ventures. 
 
 ## Business Activities
 
