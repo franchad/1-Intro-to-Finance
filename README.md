@@ -32,13 +32,13 @@ Outside of mainstream programming languages such as Python, SQL, and C++, Albert
 
 Online, Mobile Banking, and the development of API's have propelled fintech applications growth. Toptal reports a significant increase in the fintech sector to 305 Billion by 2025 from 128 Billion in 2018. Widely used Applications include digital wallets, online lending platforms, cryptocurrencies, micro-investing, and neobanks, to name a few. 
 
-# Competitiors
+## Competitiors
 
 Albert sits comfortably within the personal finance, online banking, and investment domains and competes directly with Fintech's offering similar features such as Digit, Acorns, and Qapital. 
 
 Acorns is Albert's largest competitor, with 3.5 million monthly active users investing $50-60 dollars a month. Acorns help users grow their money, and their app is an all-in-one offering investment, retirement, and checking accounts. It also shows ways to earn more money and increase your financial knowledge. 
 
-Digit helps users save, invest, pay off debt, prevent overdrafts, and guide their money daily to reach their goals faster.  It analyzes income and spending then keeps what you can afford so you can progress to Financial Health. 
+Digit helps users save, invest, pay off debt, prevent overdrafts, and guide their money daily to reach their goals faster.  It analyzes income and spending then keeps what you can afford so you can progress to financial health. 
 
 Qapital helps users save faster with goals and rules, and users can team up with others to reach shared goals. Qapital also has pre-built portfolios that diversify users' funds and plan for retirement. Their checking account helps to balance funds between spending and saving, making sure users cover your commitments while funding their future.
 
